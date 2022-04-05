@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Peplinski</h1>
 <h3 align="center">Web System student, UTFPR</h3>
-<h3 align="center">Studying to be a Front-End Developer!</h3>
 
 - 🌱 I’m currently learning **PHP, Java, MySQL, HTML5, CSS3, JavaScript**
 
