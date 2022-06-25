@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **PHP, Java, MySQL, HTML5, CSS3, JavaScript**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielpeplinski&show_icons=true&locale=en&layout=compact" alt="gabrielpeplinski" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpeplinski&show_icons=true&locale=en" alt="gabrielpeplinski" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
