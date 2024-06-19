@@ -7,6 +7,8 @@
 
 🌲 - Passionate naturalist!
 
+💬 - Don't hesitate to reach out to me in Portuguese or English 🇧🇷 🇺🇸
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-souza-peplinski)
 
